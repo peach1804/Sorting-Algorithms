@@ -1,7 +1,9 @@
 # Sorting-Algorithms
 
-This program sorts 3 arrays of random integers using Merge Sort, Quick Sort and Heap Sort.
+This program sorts 3 arrays of size _x_ of random integers _y_ times using Merge Sort, Quick Sort and Heap Sort.
 
 The time taken to sort each array is recorded and exported to a csv file.
 
-The size of the arrays can be changed in the main method.
+The size of the arrays and the number of iterations can be changed in the main method.
+
+
