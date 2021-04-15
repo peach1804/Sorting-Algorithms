@@ -4,6 +4,6 @@ This program sorts 3 arrays of size _x_ of random integers _y_ times using Merge
 
 The time taken to sort each array is recorded and exported to a csv file.
 
-The size of the arrays and the number of iterations can be changed in the main method.
+The size of the arrays (_x_) and the number of iterations (_y_) can be changed in the main method.
 
 
